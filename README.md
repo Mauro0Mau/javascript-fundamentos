@@ -9,3 +9,5 @@ Destaque para:
 - Funções síncronas e assíncronas
 - Estruturas de dados (Objetos e JSON)
 - Manipulação de DOM
+
+<img src="javascript-js.png">
