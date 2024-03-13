@@ -10,4 +10,4 @@ Destaque para:
 - Estruturas de dados (Objetos e JSON)
 - Manipulação de DOM
 
-<img src="javascript-js.png">
+![Javascript](https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png)
