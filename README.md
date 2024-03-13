@@ -10,5 +10,4 @@ Destaque para:
 - Estruturas de dados (Objetos e JSON)
 - Manipulação de DOM
 
-![Javascript]([https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png](https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png))
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" alt="Logo da Minha Empresa">
